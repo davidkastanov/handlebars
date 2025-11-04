@@ -1,0 +1,52 @@
+[
+  {
+    "model": "Tesla Model S",
+    "cost": 89999,
+    "year": 2024,
+    "engine": "Dual Motor AWD",
+    "fuelType": "Electric",
+    "rating": 4.9,
+    "photo": "https://ecofactortech.com/wp-content/uploads/2025/01/2013.jpeg.webp",
+    "details": "Електричний седан преміум-класу з автопілотом та запасом ходу понад 600 км."
+  },
+  {
+    "model": "BMW M4 Competition",
+    "cost": 76900,
+    "year": 2023,
+    "engine": "3.0L Twin-Turbo I6",
+    "fuelType": "Petrol",
+    "rating": 4.8,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbKY7FCiaqRrYgfhylGT1FSRGx2W3_59tZyw&s",
+    "details": "Потужне спортивне купе з 510 к.с. і системою повного приводу M xDrive."
+  },
+  {
+    "model": "Audi Q8",
+    "cost": 72500,
+    "year": 2022,
+    "engine": "3.0L V6 TFSI",
+    "fuelType": "Hybrid",
+    "rating": 4.7,
+    "photo": "https://vip-car.com.ua/sites/default/files/styles/pan/public/pi/13486/2025-13486-6646134.jpeg?itok=bnhbekdy",
+    "details": "Розкішний SUV з quattro, адаптивною підвіскою та сучасною цифровою панеллю."
+  },
+  {
+    "model": "Ford Mustang GT",
+    "cost": 58900,
+    "year": 2021,
+    "engine": "5.0L V8",
+    "fuelType": "Petrol",
+    "rating": 4.6,
+    "photo": "https://cdn3.riastatic.com/photosnew/auto/photo/ford_mustang__611972866fx.jpg",
+    "details": "Культовий американський маслкар із потужним V8 і класичним дизайном."
+  },
+  {
+    "model": "Toyota Land Cruiser 300",
+    "cost": 95000,
+    "year": 2024,
+    "engine": "3.3L Twin-Turbo Diesel V6",
+    "fuelType": "Diesel",
+    "rating": 4.9,
+    "photo": "https://scene7.toyota.eu/is/image/toyotaeurope/LC_300_City_Connected_KV1_Crop1?qlt=80&wid=1600&resMode=sharp2&fit=constrain",
+    "details": "Позашляховик для будь-якої місцевості з комфортом бізнес-класу та надійністю Toyota."
+  }
+]

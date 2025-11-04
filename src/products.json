@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Wireless Headphones",
+    "price": 59.99,
+    "image": "https://content.rozetka.com.ua/goods/images/big/393991230.jpg",
+    "description": "Bluetooth навушники з шумопоглинанням і до 20 годин роботи."
+  },
+  {
+    "name": "Smart Watch",
+    "price": 129.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR79T1njZgupOeYYR1dEIbonqE9-1MdlTvZSA&s",
+    "description": "Смарт-годинник з моніторингом пульсу, крокоміром і водозахистом."
+  },
+  {
+    "name": "Gaming Mouse",
+    "price": 39.99,
+    "image": "https://files.foxtrot.com.ua/PhotoNew/img_0_709_3572_0_1_637751797462843685_Small.jpg",
+    "description": "Ігрова миша з RGB-підсвіткою та 6 програмованими кнопками."
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "price": 89.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVUS4FbsJIJihKXpOFkliuBlsPcva494Ktzg&s",
+    "description": "Механічна клавіатура з підсвіткою і перемикачами Blue Switch."
+  },
+  {
+    "name": "4K Monitor",
+    "price": 349.99,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/575059427.jpg",
+    "description": "27-дюймовий 4K монітор з IPS-матрицею і підтримкою HDR."
+  }
+]
